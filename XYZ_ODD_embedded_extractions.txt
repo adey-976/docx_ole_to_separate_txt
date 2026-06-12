@@ -1,0 +1,155 @@
+================================================================================
+EMBEDDED FILE EXTRACTIONS FROM: XYZ_ODD.docx
+================================================================================
+
+This file contains the extracted text content of all embedded files found in the
+document "XYZ_ODD.docx". Each extraction below includes the embedded file's
+name, type, location in the document, and the surrounding text from the original
+document so you can identify exactly where each embedded file appears.
+
+Total embedded files found: 7
+
+────────────────────────────────────────────────────────────────────────────────
+EMBEDDED FILE #1
+────────────────────────────────────────────────────────────────────────────────
+  Filename : Microsoft_Word_Document.docx
+  Type     : Word Document (.docx)
+  Location : Table 4, Row 2, Cell 2
+
+  Text immediately before this embedded file in the document:
+    "This is dummy text. This is dummy text. This is dummy text. This is docx_testing:"
+
+  Text immediately after this embedded file in the document:
+    "Above is the docx_testing. This is dummy text. This is dummy table: Cell 1 Cell 2 Cell 3 Cell 4 This is dummy text. This is dummy text. This is dum..."
+
+  Extracted content:
+  ········································
+This is DOCX file
+  ········································
+
+────────────────────────────────────────────────────────────────────────────────
+EMBEDDED FILE #2
+────────────────────────────────────────────────────────────────────────────────
+  Filename : Microsoft_Excel_Worksheet.xlsx
+  Type     : Excel Spreadsheet (.xlsx)
+  Location : Table 4, Row 6, Cell 2
+
+  Text immediately before this embedded file in the document:
+    "This is dummy text. This is xlsx_testing:"
+
+  Text immediately after this embedded file in the document:
+    "Above is the xlsx_testing. This is dummy text. This is dummy text. This is dummy text. This is dummy text. This is dummy text. This is pdf_testing:..."
+
+  Extracted content:
+  ········································
+  [Sheet: Sheet1]
+    This is	SHEET 1
+  [Sheet: Sheet2]
+    This is 	SHEET 2
+  ········································
+
+────────────────────────────────────────────────────────────────────────────────
+EMBEDDED FILE #3
+────────────────────────────────────────────────────────────────────────────────
+  Filename : embedded.pdf
+  Type     : PDF Document (.pdf)
+  Location : Table 4, Row 6, Cell 2
+
+  Text immediately before this embedded file in the document:
+    "...Above is the xlsx_testing. This is dummy text. This is dummy text. This is dummy text. This is dummy text. This is dummy text. This is pdf_testing:"
+
+  Text immediately after this embedded file in the document:
+    "This is dummy text. This is dummy text. This is dummy text. This is dummy text. This is dummy text. This is dummy text. This is dummy text. This is..."
+
+  Extracted content:
+  ········································
+  [Page 1]
+    This is PDF file
+  ········································
+
+────────────────────────────────────────────────────────────────────────────────
+EMBEDDED FILE #4
+────────────────────────────────────────────────────────────────────────────────
+  Filename : eml_testing.eml
+  Type     : Package
+  Location : Table 4, Row 7, Cell 2
+
+  Text immediately before this embedded file in the document:
+    "This is dummy text. This is dummy text. This is dummy text. This is dummy text. This is dummy text. This is eml_testing:"
+
+  Text immediately after this embedded file in the document:
+    "Above is the eml_testing. This is dummy text. This is dummy text. This is dummy text. This is dummy text. This is dummy text. This is dummy text. T..."
+
+  Extracted content:
+  ········································
+  Subject: Email Testing
+  From: Akash Dey <adey976@gmail.com>
+  To: Akash Dey <adey976@gmail.com>
+  Date: Mon, 8 Jun 2026 16:59:04 +0530
+  Body: This is email file
+
+  ········································
+
+────────────────────────────────────────────────────────────────────────────────
+EMBEDDED FILE #5
+────────────────────────────────────────────────────────────────────────────────
+  Filename : Microsoft_Excel_Worksheet1.xlsx
+  Type     : Excel Spreadsheet (.xlsx)
+  Location : Table 4, Row 9, Cell 2
+
+  Text immediately before this embedded file in the document:
+    "This is dummy text. This is dummy text. This is dummy text. This is 2nd xlsx_testing:"
+
+  Text immediately after this embedded file in the document:
+    "This is dummy text. This is dummy text. This is dummy text. This is dummy text. This is dummy text. This is dummy text. This is dummy text. This is..."
+
+  Extracted content:
+  ········································
+  [Sheet: Sheet1]
+    This is	SHEET 1
+  [Sheet: Sheet2]
+    This is 	SHEET 2
+  ········································
+
+────────────────────────────────────────────────────────────────────────────────
+EMBEDDED FILE #6
+────────────────────────────────────────────────────────────────────────────────
+  Filename : Microsoft_Excel_Macro-Enabled_Worksheet.xlsm
+  Type     : Excel Macro-Enabled Workbook (.xlsm)
+  Location : Table 7, Row 2, Cell 1
+
+  Text immediately before this embedded file in the document:
+    "This is csv_testing:"
+
+  Text immediately after this embedded file in the document:
+    "This is dummy text. This is dummy text. This is 2nd eml_testing:"
+
+  Extracted content:
+  ········································
+  [Sheet: csv_testing]
+    This is	CSV file testing
+  ········································
+
+────────────────────────────────────────────────────────────────────────────────
+EMBEDDED FILE #7
+────────────────────────────────────────────────────────────────────────────────
+  Filename : eml_testing.eml
+  Type     : Package
+  Location : Table 7, Row 2, Cell 1
+
+  Text immediately before this embedded file in the document:
+    "This is csv_testing: This is dummy text. This is dummy text. This is 2nd eml_testing:"
+
+  Extracted content:
+  ········································
+  Subject: Email Testing
+  From: Akash Dey <adey976@gmail.com>
+  To: Akash Dey <adey976@gmail.com>
+  Date: Mon, 8 Jun 2026 16:59:04 +0530
+  Body: This is email file
+
+  ········································
+
+================================================================================
+END OF EXTRACTIONS
+================================================================================

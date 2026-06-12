@@ -1,0 +1,114 @@
+================================================================================
+EMBEDDED FILE EXTRACTIONS FROM: XYZ_ODD_1.docx
+================================================================================
+
+This file contains the extracted text content of all embedded files found in the
+document "XYZ_ODD_1.docx". Each extraction below includes the embedded file's
+name, type, location in the document, and the surrounding text from the original
+document so you can identify exactly where each embedded file appears.
+
+Total embedded files found: 5
+
+────────────────────────────────────────────────────────────────────────────────
+EMBEDDED FILE #1
+────────────────────────────────────────────────────────────────────────────────
+  Filename : Microsoft_Word_Document.docx
+  Type     : Word Document (.docx)
+  Location : Body paragraph 6
+
+  Text immediately before this embedded file in the document:
+    "This file is to be extracted. Section 1 – docx_testing:"
+
+  Text immediately after this embedded file in the document:
+    "Section 2 – xlsx_testing: Section 3 – pdf_testing: Section 4 – eml_testing: Section 5 – csv_testing: Section 6 – The End!"
+
+  Extracted content:
+  ········································
+This is DOCX file
+  ········································
+
+────────────────────────────────────────────────────────────────────────────────
+EMBEDDED FILE #2
+────────────────────────────────────────────────────────────────────────────────
+  Filename : Microsoft_Excel_Worksheet.xlsx
+  Type     : Excel Spreadsheet (.xlsx)
+  Location : Body paragraph 9
+
+  Text immediately before this embedded file in the document:
+    "This file is to be extracted. Section 1 – docx_testing: Section 2 – xlsx_testing:"
+
+  Text immediately after this embedded file in the document:
+    "Section 3 – pdf_testing: Section 4 – eml_testing: Section 5 – csv_testing: Section 6 – The End!"
+
+  Extracted content:
+  ········································
+  [Sheet: Sheet1]
+    This is	SHEET 1
+  [Sheet: Sheet2]
+    This is 	SHEET 2
+  ········································
+
+────────────────────────────────────────────────────────────────────────────────
+EMBEDDED FILE #3
+────────────────────────────────────────────────────────────────────────────────
+  Filename : embedded.pdf
+  Type     : PDF Document (.pdf)
+  Location : Body paragraph 12
+
+  Text immediately before this embedded file in the document:
+    "This file is to be extracted. Section 1 – docx_testing: Section 2 – xlsx_testing: Section 3 – pdf_testing:"
+
+  Text immediately after this embedded file in the document:
+    "Section 4 – eml_testing: Section 5 – csv_testing: Section 6 – The End!"
+
+  Extracted content:
+  ········································
+  [Page 1]
+    This is PDF file
+  ········································
+
+────────────────────────────────────────────────────────────────────────────────
+EMBEDDED FILE #4
+────────────────────────────────────────────────────────────────────────────────
+  Filename : eml_testing.eml
+  Type     : Package
+  Location : Body paragraph 14
+
+  Text immediately before this embedded file in the document:
+    "This file is to be extracted. Section 1 – docx_testing: Section 2 – xlsx_testing: Section 3 – pdf_testing: Section 4 – eml_testing:"
+
+  Text immediately after this embedded file in the document:
+    "Section 5 – csv_testing: Section 6 – The End!"
+
+  Extracted content:
+  ········································
+  Subject: Email Testing
+  From: Akash Dey <adey976@gmail.com>
+  To: Akash Dey <adey976@gmail.com>
+  Date: Mon, 8 Jun 2026 16:59:04 +0530
+  Body: This is email file
+
+  ········································
+
+────────────────────────────────────────────────────────────────────────────────
+EMBEDDED FILE #5
+────────────────────────────────────────────────────────────────────────────────
+  Filename : Microsoft_Excel_Macro-Enabled_Worksheet.xlsm
+  Type     : Excel Macro-Enabled Workbook (.xlsm)
+  Location : Body paragraph 16
+
+  Text immediately before this embedded file in the document:
+    "... is to be extracted. Section 1 – docx_testing: Section 2 – xlsx_testing: Section 3 – pdf_testing: Section 4 – eml_testing: Section 5 – csv_testing:"
+
+  Text immediately after this embedded file in the document:
+    "Section 6 – The End!"
+
+  Extracted content:
+  ········································
+  [Sheet: csv_testing]
+    This is	CSV file testing
+  ········································
+
+================================================================================
+END OF EXTRACTIONS
+================================================================================
